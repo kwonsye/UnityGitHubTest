@@ -1,7 +1,9 @@
 ﻿#pragma strict
 
 function Start () {
-	Debug.Log("Origin User 22");
+
+	Debug.Log("Second User");
+
 }
 
 function Update () {
